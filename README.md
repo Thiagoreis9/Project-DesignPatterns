@@ -11,4 +11,6 @@ Este repositório conta com as implementações dos padrões de projeto explorad
 
 > Strategy/Repository;
 
+> Swagger;
+
 > Facade.
