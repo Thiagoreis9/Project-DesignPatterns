@@ -1,2 +1,6 @@
-# Project-DesignPatterns
-Project-DesignPatterns-Quebec-Java Descrição do Desafio: Crie uma solução que explore o conceito de Padrões de Projeto na prática.
+# Explorando Padrões de Projetos na Prática com Java
+
+Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
+- Singleton
+- Strategy/Repository
+- Facade
